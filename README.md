@@ -22,7 +22,7 @@ Shenyang, P. R. China
 
 - Natural Language Processing
 - Large Language Models
-- Data analysis & Image Processing
+- Data Analysis & Image Processing
 
 ## Skills
 
