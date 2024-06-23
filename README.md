@@ -3,6 +3,8 @@
 
 # Long Xu
 
+I am actively seeking opportunities in Data scientist or Overseas Postdoctoral Fellow.
+
 ### *Ph.D.*
 
 Northeastern University
