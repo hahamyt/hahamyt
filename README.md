@@ -1,50 +1,36 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hahamyt&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+<img align="right" src="https://komarev.com/ghpvc/?username=hahamyt" alt="hahamyt" />
+
 # Long Xu
 
-![Profile Views](https://komarev.com/ghpvc/?username=hahamyt&color=blueviolet&style=flat)
+### *Ph.D.*
 
-## About Me
+Northeastern University
 
-I am Long Xu. My research interests include LLM and data analysising. I am actively seeking opportunities in Data scientist.
+NO. 3-11, Wenhua Road, Heping District 
+
+Shenyang, P. R. China
 
 ## Education
 
-- **[Degree]** in [Field of Study], [Institution], [Year]
-- **[Degree]** in [Field of Study], [Institution], [Year]
+- 2016.09-2022.06 Northeastern University, School of Information Science and Engineering, Pattern Recognition and Intelligent Systems.
+- 2012.09-2016.06 Inner Mongolia University, School of Electronic Information Engineering, Automation.
 
 ## Research Interests
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
-
-## Publications
-
-- **[Paper Title 1]**, [Authors], [Journal/Conference], [Year]. [Link to paper]
-- **[Paper Title 2]**, [Authors], [Journal/Conference], [Year]. [Link to paper]
-- **[Paper Title 3]**, [Authors], [Journal/Conference], [Year]. [Link to paper]
-
-## Projects
-
-- **[Project Title 1]** - [Brief description of the project]. [Link to project]
-- **[Project Title 2]** - [Brief description of the project]. [Link to project]
-- **[Project Title 3]** - [Brief description of the project]. [Link to project]
-
-## Experience
-
-- **[Job Title]**, [Company/Institution], [Year-Year]
-  - [Responsibility/achievement 1]
-  - [Responsibility/achievement 2]
-  - [Responsibility/achievement 3]
+- Natural Language Processing
+- Large Language Models
+- Data analysis & Image Processing
 
 ## Skills
 
-- Programming Languages: ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-- Frameworks and Libraries: ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-- Tools and Platforms: ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+- Natural Language: Chinese (Native); English (CET-6);
+- Programming Language: **Python**; C++; Java; JavaScript; PHP; Go; Verilog HDL; MATLAB
+- Typesetting Language: **LaTeX**; Markdown
+- Programming Framework: **PyTorch**; TensorFlow
 
-## Contact
+## Publications ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=iSVGMbbV6QAC))
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/your-username)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://linkedin.com/in/your-username)
-- [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-username)
+## Academic Service
+
+- Journal Reviewer: IEEE Transactions on Transportation Electrification
