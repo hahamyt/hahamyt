@@ -1,10 +1,10 @@
-# [Your Name]
+# Long Xu
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=hahamyt&color=blueviolet&style=flat)
 
 ## About Me
 
-I am [Your Name], a [your current position] at [your institution or company]. My research interests include [your research interests]. I am actively seeking opportunities in [desired job field or position].
+I am Long Xu. My research interests include LLM and data analysising. I am actively seeking opportunities in Data scientist.
 
 ## Education
 
