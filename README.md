@@ -15,8 +15,8 @@ Shenyang, P. R. China
 
 ## Education
 
-- 2016.09-2022.06 Northeastern University, School of Information Science and Engineering, Pattern Recognition and Intelligent Systems.
-- 2012.09-2016.06 Inner Mongolia University, School of Electronic Information Engineering, Automation.
+- 2016.09-2022.06 Master & Ph.D. Northeastern University, School of Information Science and Engineering, Pattern Recognition and Intelligent Systems.
+- 2012.09-2016.06 B.S. Inner Mongolia University, School of Electronic Information Engineering, Automation.
 
 ## Research Interests
 
