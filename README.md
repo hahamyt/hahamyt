@@ -3,7 +3,7 @@
 
 # Long Xu
 
-I am actively seeking opportunities in Data scientist or Overseas Postdoctoral Fellow.
+A person who likes algorithms and their applications.
 
 ### *Ph.D.*
 
