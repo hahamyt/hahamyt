@@ -3,7 +3,7 @@
 
 # Long Xu
 
-A person who likes algorithms and their applications. My personal website:  [http://img2latex.com](http://imglatex.com)。
+A person who likes algorithms and their applications. My personal website:  [http://img2latex.com](http://imglatex.com).
 
 ### *Ph.D.*
 
