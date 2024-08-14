@@ -2,6 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=hahamyt" alt="hahamyt" />
 
 # Long Xu
+[![Discord](https://img.shields.io/discord/w8xJY9Ga?label=Discord&logo=discord&color=7289da)](https://discord.gg/w8xJY9Ga)
 
 A person who likes algorithms and their applications. My personal website:  [http://img2latex.com](http://img2latex.com).
 
