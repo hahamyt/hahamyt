@@ -36,4 +36,4 @@ Shenyang, P. R. China
 
 ## Academic Service
 
-- Journal Reviewer: IEEE Transactions on Transportation Electrification, IEEE Access
+- Journal Reviewer: IEEE Transactions on Transportation Electrification, IEEE Access, Signal, Image and Video Processing
